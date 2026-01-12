@@ -1,3 +1,5 @@
 Backend Engineer | Full-stack Developer | Android Developer  
 
-Skills: Golang, PHP, JavaScript, Java, Python
+Skills: Python, Golang, PHP, JavaScript, Java
+
+
